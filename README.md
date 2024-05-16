@@ -55,6 +55,7 @@ This is a clone of the popular Flappy Bird game, developed using Python and the 
    ![Flappy Bird by khushi 17-05-2024 02_41_18](https://github.com/iamshie/FLAPPY-BIRD/assets/146112856/0f9adac9-c4ac-4ca7-87b8-4b3a126d1c98)
 
   
+https://github.com/iamshie/FLAPPY-BIRD/assets/146112856/d96f4223-fe2e-4c06-ba4b-cd7f1886d219
 
 
 
