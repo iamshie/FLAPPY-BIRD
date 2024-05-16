@@ -1,6 +1,7 @@
 # FLAPPY-BIRD
 A Python implementation of the classic Flappy Bird game using Pygame.
 #Features:
+
 1.Simple controls: Use spacebar or up arrow key to flap the bird's wings.
 2.Scoring system: Earn points by passing through pipes.
 3.Sound effects: Interactive audio feedback for gameplay events.
