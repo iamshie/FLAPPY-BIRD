@@ -51,7 +51,8 @@ This is a clone of the popular Flappy Bird game, developed using Python and the 
   - flappy_bird.py : Main game logic and event handling.
   - gallery/sprites: Directory containing all game graphics (bird, background, pipes, base).
   - gallery/audio: Directory containing game sound effects (wing, hit, point, die, swoosh).
-
+ ## Ddemo
+   ![Flappy Bird by khushi 17-05-2024 02_41_18](https://github.com/iamshie/FLAPPY-BIRD/assets/146112856/0f9adac9-c4ac-4ca7-87b8-4b3a126d1c98)
 
 
 
